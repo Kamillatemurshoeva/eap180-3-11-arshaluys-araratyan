@@ -25,8 +25,6 @@ This repository is part of Open Data Armenia, an initiative focused on collectin
 - reference
 - year
 - issue
-- english_description
-- related_people
 
 ## Notes
 
