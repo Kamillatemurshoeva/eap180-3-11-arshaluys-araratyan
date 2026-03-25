@@ -28,6 +28,10 @@ This repository is part of Open Data Armenia, an initiative focused on collectin
 
 ## Notes
 
+Some fields were excluded because they are constant across the collection. 
+
+Collection-wide properties:
+
 language: Armenian  
 script: Armenian  
 material: paper  
